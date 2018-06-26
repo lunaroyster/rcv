@@ -1,6 +1,6 @@
 {
   "name": "rcv",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Implementation of ranked choice voting methods",
   "main": "index.js",
   "scripts": {
