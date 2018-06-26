@@ -4,8 +4,11 @@
   "description": "Implementation of ranked choice voting methods",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "ava lib/*.test.js"
   },
   "author": "lunaroyster",
+  "devDependencies": {
+    "ava": "1.0.0-beta.6"
+  },
   "license": "MIT"
 }
