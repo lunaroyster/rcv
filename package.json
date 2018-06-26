@@ -1,0 +1,11 @@
+{
+  "name": "rcv",
+  "version": "0.0.0",
+  "description": "Implementation of ranked choice voting methods",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lunaroyster",
+  "license": "MIT"
+}
